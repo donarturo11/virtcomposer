@@ -9,8 +9,7 @@ without of user's intervention.
 
 
 ## Running
-'''
- chmod +x virtcomposer.py
- ./virtcomposer.py
-'''
+    chmod +x virtcomposer.py
+    ./virtcomposer.py
+
 
