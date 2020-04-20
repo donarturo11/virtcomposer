@@ -1,6 +1,6 @@
 # Virtual composer
 This is a simple and primitive program
-to compose various composition
+to compose various compositions
 without of user's intervention.
 
 ## Requirements
