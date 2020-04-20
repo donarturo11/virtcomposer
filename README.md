@@ -7,9 +7,14 @@ without of user's intervention.
 * python2
 * sox
 
-
-## Running
+## Install and run
+### Install
+    git clone https://github.com/donarturo11/virtcomposer.git
+### Run
     chmod +x virtcomposer.py
     ./virtcomposer.py
+    
+### Contact
+donarturo <arturwrona91(at)gmail(dot)com>
 
 
